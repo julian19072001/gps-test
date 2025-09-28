@@ -1,0 +1,6 @@
+[submodule "libs/NMEA-gps_utilities"]
+	path = libs/NMEA-gps_utilities
+	url = git@github.com:julian19072001/NMEA-GPS_utilities.git
+[submodule "libs/RPI-serial"]
+	path = libs/RPI-serial
+	url = git@github.com:julian19072001/RPI-serial.git
