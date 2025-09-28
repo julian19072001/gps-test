@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "rpiserial.h": "c",
+        "nmea-gpsutils.h": "c"
+    }
+}
